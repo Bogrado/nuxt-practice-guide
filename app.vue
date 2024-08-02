@@ -2,6 +2,8 @@
 const menu = [
   { name: 'Home', path: '/home' },
   { name: 'About', path: '/about' },
+  { name: 'Shop', path: '/shop' },
+  { name: 'Blog', path: '/blog' },
 ]
 </script>
 <template>
